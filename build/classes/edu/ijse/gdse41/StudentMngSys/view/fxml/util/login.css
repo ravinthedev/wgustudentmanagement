@@ -1,0 +1,22 @@
+/*
+ * Empty Stylesheet file.
+*/
+
+.mainFxmlClass {
+  
+}
+
+.AnchorPane{
+    -fx-background-color : #00000;
+    -fx-border-color: #3bbccf;
+    -fx-border-width: 2;
+}
+
+.button{
+    -fx-background-color: #3bbccf;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+    -fx-font-size: 20px;
+    -fx-padding: 10 20 10 20;
+}
